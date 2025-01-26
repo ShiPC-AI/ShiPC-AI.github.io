@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pengcheng Shi/Homepage"
+title                    : "Pengcheng Shi / Homepage"
 title_separator          : "-"
 name                     : &name "Pengcheng Shi"
 description              : &description "PhD candidate at Wuhan University"
