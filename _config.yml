@@ -27,7 +27,7 @@ author:
   bio              : "PhD candidate at Wuhan University"
   location         : "Hubei China"
   employer         : "Wuhan University"
-  uri              : # URL
+  # uri              : # URL
   email            : "shipc_2021@whu.edu.cn" 
 
   # Academic websites
