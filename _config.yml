@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pengcheng Shi / Homepage"
-title_separator          : "-"
+title                    : "Pengcheng Shi"
+# title_separator          : "-"
 name                     : &name "Pengcheng Shi"
-description              : &description "PhD candidate at Wuhan University"
-url                      : https://shipc-ai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+description              : &description "PhD student at Wuhan University"
+# url                      : https://shipc-ai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+# baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "ShiPC-AI/ShiPC-AI.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Pengcheng Shi"
   # pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at Wuhan University"
+  bio              : "PhD student at Wuhan University"
   location         : "Hubei China"
   employer         : "Wuhan University"
   # uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Pengcheng-Shi-12"
   scopus           : # URL
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ShiPC-AI"
+  github           : "ShiPC-AI"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

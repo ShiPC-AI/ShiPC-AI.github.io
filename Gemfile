@@ -10,3 +10,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+gem 'ffi', '1.16.3'
