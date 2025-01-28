@@ -68,7 +68,7 @@ author_profile: true
 ## 2020
 - **[A Novel Indoor Structure Extraction Based on Dense Point Cloud](https://www.mdpi.com/2220-9964/9/11/660)**
   - **Pengcheng Shi**, Qin Ye#, Lingwen Zeng
-  - ISPRS International Journal of Geo-Information (**IJGI**), 2020， Impact Factor: 2.8
+  - ISPRS International Journal of Geo-Information (**IJGI**), 2020, Impact Factor: 2.8
   - [[Paper]](https://www.mdpi.com/2220-9964/9/11/660) 
 - **[A Novel Loop Closure Detection Approach Using Simplified Structure for Low-cost LiDAR](https://www.mdpi.com/1424-8220/20/8/2299)**
   - Qin Ye, **Pengcheng Shi**, Kunyuan Xu, Popo Gui, Shaoming Zhang#
