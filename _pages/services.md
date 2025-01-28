@@ -11,7 +11,7 @@ redirect_from:
 - IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - IEEE Transactions on Intelligent Vehicles (**TIV**)
 - IEEE Transactions on Instrumentation and Measurement (**TIM**)
-- The Photogrammetric Record
+- Photogrammetric Record (**PHOR**)
 - The Journal of Supercomputing
 - Geomatics and Information Science of Wuhan University (**武汉大学学报信息科学版**)
 

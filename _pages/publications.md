@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## 2024
 \#: corresponding author
+## 2024
 - **[LiDAR-based Place Recognition for Autonomous Driving: A Survey](https://dl.acm.org/doi/10.1145/3707446)**  
   - Yongjun Zhang, **Pengcheng Shi**#, Jiayun Li#  
   - ACM Computing Surveys (**CSUR**), 2024, Impact Factor: 23.8 
@@ -14,13 +14,13 @@ author_profile: true
 - **[RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration](https://ieeexplore.ieee.org/document/10758239)**
   - **Pengcheng Shi**, Shaocheng Yan, Yilin Xiao, Xinyi Liu, Yongjun Zhang#, Jiayuan Li#
   - IEEE Robotics and Automation Letters (**RAL**), 2024, Impact Factor: 4.6
-  - [[Paper]](https://ieeexplore.ieee.org/document/10758239) [[Code]](https://github.com/ShiPC-AI/TCF)
+  - [[Paper]](https://ieeexplore.ieee.org/document/10758239) [[Code]](https://github.com/ShiPC-AI/TCF) [[Dataset]](https://drive.google.com/drive/folders/1uKN2pqymFc85tY13Cw7kUNop7uQOEOSB)
 
 - **[ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency
 ](https://link.springer.com/chapter/10.1007/978-3-031-72784-9_2)**
   - Shaocheng Yan, **Pengcheng Shi**, Jiayuan Li#
   - European Conference on Computer Vision (**ECCV**), 2024
-  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-72784-9_2)[[Code]](https://github.com/Laka-3DV/ML-SemReg)
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-72784-9_2) [[Code]](https://github.com/Laka-3DV/ML-SemReg)
 
 - **[3D LiDAR SLAM: A Survey](https://onlinelibrary.wiley.com/doi/full/10.1111/phor.12497)**
   - Yongjun Zhang, **Pengcheng Shi**#, Jiayun Li#
@@ -57,7 +57,7 @@ author_profile: true
 - **[LNIFT: Locally Normalized Image for Rotation Invariant Multimodal Feature Matching](https://ieeexplore.ieee.org/abstract/document/9751712)**
   - Jiayuan Li, Wangyi Xu, **Pengcheng Shi**, Yongjun Zhang#, Qingwu Hu#
   - IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2022, Impact Factor: 8.2
-  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9751712)[[Code]](https://github.com/LJY-RS/LNIFT_exe)
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9751712) [[Code]](https://github.com/LJY-RS/LNIFT_exe)
 
 ## 2021
 - **[顾及室内场景特征的多线激光雷达初始定位](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2021.20210268)**
