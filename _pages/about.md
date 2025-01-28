@@ -13,7 +13,7 @@ I am a PhD student at Wuhan University, where I have been pursuing my studies si
  - **Point Cloud Registration**
  - **Loop Closure Detection / Place Recognition**
 
-## 🧑‍💼 News
+## 🔥 News
 - **<span style="color:red;">[2024.12]</span>** A paper is accepted by ***ACM Computing Surveys (IF=23.8)***.
 - **<span style="color:red;">[2024.12]</span>** A paper is accepted by ***IEEE RAL***.
 - **<span style="color:red;">[2024.07]</span>** A co-author paper is accepted by ***ECCV***.
@@ -24,7 +24,7 @@ I am a PhD student at Wuhan University, where I have been pursuing my studies si
 - **<span style="color:red;">[2023.05]</span>** A paper is accepted by ***JAG***.
 - **<span style="color:red;">[2023.03]</span>** A co-author paper is accepted by ***IEEE TPAMI (IF=24.3)***.
 
-## 🎓 **Education**
+## 🎓 Education
 - **PhD Student**, Artifical Intelligence, School of Computer Science, Wuhan University  
   _2021.09 - Present_
 
