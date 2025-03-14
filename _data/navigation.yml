@@ -17,11 +17,11 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Honors"
+  - title: "Honors&Awards"
     url: /honors/   
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Fundings&Patents"
+    url: /fundings/    
 
   # - title: "Teaching"
   #   url: /teaching/    

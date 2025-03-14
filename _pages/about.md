@@ -14,6 +14,7 @@ I am a PhD student at Wuhan University, where I have been pursuing my studies si
  - **Loop Closure Detection / Place Recognition**
 
 ## 🔥 News
+- **<span style="color:red;">[2025.02]</span>** A co-author paper is accepted by ***CVPR 2025***.
 - **<span style="color:red;">[2024.12]</span>** A paper is accepted by ***ACM Computing Surveys (IF=23.8)***.
 - **<span style="color:red;">[2024.12]</span>** A paper is accepted by ***IEEE RAL***.
 - **<span style="color:red;">[2024.07]</span>** A co-author paper is accepted by ***ECCV***.
@@ -33,3 +34,10 @@ I am a PhD student at Wuhan University, where I have been pursuing my studies si
 
 - **Bachelor of Engineering (B.E.)**, Remote Sensing, School of Geomatics, Liaoning Technical University  
   _2014.09 - 2018.06_ 
+
+## 💼 Working Experience
+- **Research Intern**, Shanghai Huace Navigation Technology Ltd., Shanghai, China <br>
+  _2020-10 - 2021-06_
+
+- **Research Intern**, Zhongzhen Tonglu (Jiangsu) Robot Co., Ltd., Shanghai, China <br>
+  _2019-10 - 2020-05_
