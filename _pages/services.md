@@ -6,13 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-### 📚 **Reviewer for the following journals**:
+### 📚 **Reviewer for the following journals/conferences**:
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 - IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - IEEE Robotics and Automation Letters (**RA-L**)
 - IEEE Transactions on Intelligent Vehicles (**TIV**)
 - IEEE Transactions on Instrumentation and Measurement (**TIM**)
 - Photogrammetric Record (**PHOR**)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)
 - International Journal of Intelligent Robotics and Applications
 - Journal of Supercomputing
 - Infrared Physics and Technology
