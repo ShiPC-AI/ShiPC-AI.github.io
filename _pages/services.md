@@ -18,6 +18,8 @@ redirect_from:
 - Journal of Supercomputing
 - Infrared Physics and Technology
 - Geomatics and Information Science of Wuhan University (**武汉大学学报信息科学版**)
+- Pattern Analysis and Applications
+- Discover Computing
 
 ---
 
