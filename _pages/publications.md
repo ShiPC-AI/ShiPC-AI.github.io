@@ -21,11 +21,23 @@ author_profile: true
 <table style="width:100%; border-collapse: collapse; border: none; border-spacing: 0px; margin:auto;">
   <tr>
     <td class="pub-entry">
+      <strong><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Yan_HeMoRa_Unsupervised_Heuristic_Consensus_Sampling_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.html">HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration</a></strong> 
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Yan_HeMoRa_Unsupervised_Heuristic_Consensus_Sampling_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.html">[PDF]</a> 
+      <a href="https://github.com/Laka-3DV/HeMoRa">[Code]</a>
+      <br>
+      <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) </em>
+      <br>
+      Shaocheng Yan, Yiming Wang, Kaiyan Zhao, <strong>Pengcheng Shi</strong>, Zhenjun Zhao, Yongjun Zhang, Jiayuan Li#
+    </td>
+  </tr>
+
+  <tr>
+    <td class="pub-entry">
       <strong><a href="https://dl.acm.org/doi/10.1145/3707446">LiDAR-based Place Recognition for Autonomous Driving: A Survey</a></strong> 
       <a href="https://dl.acm.org/doi/10.1145/3707446">[PDF]</a> 
       <a href="https://github.com/ShiPC-AI/LPR-Survey">[Code]</a>
       <br>
-      <em>ACM Computing Surveys (CSUR), 2024, Impact Factor: 23.8</em>
+      <em>ACM Computing Surveys (CSUR), 2024, IF: 23.8</em>
       <br>
       Yongjun Zhang, <strong>Pengcheng Shi</strong>#, Jiayun Li#
     </td>
@@ -38,7 +50,7 @@ author_profile: true
       <a href="https://github.com/ShiPC-AI/TCF">[Code]</a>
       <a href="https://drive.google.com/drive/folders/1uKN2pqymFc85tY13Cw7kUNop7uQOEOSB">[Dataset]</a> 
       <br>
-      <em>IEEE Robotics and Automation Letters (RAL), 2024, Impact Factor: 4.6</em>
+      <em>IEEE Robotics and Automation Letters (RAL), 2024, IF: 4.6</em>
       <br>
       <strong>Pengcheng Shi</strong>, Shaocheng Yan, Yilin Xiao, Xinyi Liu, Yongjun Zhang#, Jiayuan Li#
     </td>
@@ -61,7 +73,7 @@ author_profile: true
     <td class="pub-entry">
       <strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/phor.12497">3D LiDAR SLAM: A Survey</a></strong> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/phor.12497">[PDF]</a>
       <br>
-      <em>Photogrammetric Record (PHOR), 2024, Impact Factor: 2.4</em> 
+      <em>Photogrammetric Record (PHOR), 2024, IF: 2.4</em> 
       <br>
       Yongjun Zhang, <strong>Pengcheng Shi</strong>#, Jiayun Li#    
     </td>
@@ -75,7 +87,7 @@ author_profile: true
       <br>
       <strong>Pengcheng Shi</strong>, Yilin Xiao, Wenqing Chen, Jiayuan Li#, Yongjun Zhang#
       <br>
-      <em>IEEE Transactions on Intelligent Vehicles (TIV), 2024, Impact Factor: 14.0</em>
+      <em>IEEE Transactions on Intelligent Vehicles (TIV), 2024, IF: 14.0</em>
     </td>
   </tr>
 
@@ -98,7 +110,7 @@ author_profile: true
       <strong><a href="https://ieeexplore.ieee.org/document/10091912">QGORE: Quadratic-time Guaranteed Outlier Removal for Point Cloud Registration</a></strong>
       <a href="https://ieeexplore.ieee.org/document/10091912">[PDF]</a>
       <br>
-      <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023, Impact Factor: 24.3</em>
+      <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023, IF: 24.3</em>
       <br>
       Jiayun Li, <strong>Pengcheng Shi</strong>, Qingwu Hu#, Yongjun Zhang#
     </td>
@@ -110,7 +122,7 @@ author_profile: true
       <a href="https://www.sciencedirect.com/science/article/pii/S0924271623001892">[PDF]</a>
       <a href="https://github.com/ShiPC-AI/Occupied-Place-Description">[Code]</a>
       <br>
-      <em>ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&RS), 2023, Impact Factor: 12.7</em>
+      <em>ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&RS), 2023, IF: 12.7</em>
       <br>
       <strong>Pengcheng Shi</strong>, Jiayun Li#, Yongjun Zhang#
     </td>
@@ -122,7 +134,7 @@ author_profile: true
       <a href="https://www.sciencedirect.com/science/article/pii/S1569843223001589">[PDF]</a>
       <a href="https://github.com/ShiPC-AI/LiDAR-Localization-100FPS">[Code]</a>
       <br>
-      <em>International Journal of Applied Earth Observation and Geoinformation (JAG), 2023, Impact Factor: 7.6</em>
+      <em>International Journal of Applied Earth Observation and Geoinformation (JAG), 2023, IF: 7.6</em>
       <br>
       <strong>Pengcheng Shi</strong>, Jiayun Li#, Yongjun Zhang#
     </td>
@@ -137,7 +149,7 @@ author_profile: true
       <a href="https://ieeexplore.ieee.org/abstract/document/9751712">[PDF]</a>
       <a href="https://github.com/LJY-RS/LNIFT_exe">[Code]</a>
       <br>
-      <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022, Impact Factor: 8.2</em>
+      <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022, IF: 8.2</em>
       <br>
       <strong>Jiayuan Li</strong>, Wangyi Xu, <strong>Pengcheng Shi</strong>, Yongjun Zhang#, Qingwu Hu#
     </td>
@@ -165,7 +177,7 @@ author_profile: true
       <strong><a href="https://www.mdpi.com/2220-9964/9/11/660">A Novel Indoor Structure Extraction Based on Dense Point Cloud</a></strong>
       <a href="https://www.mdpi.com/2220-9964/9/11/660">[PDF]</a>
       <br>
-      <em>ISPRS International Journal of Geo-Information (IJGI), 2020, Impact Factor: 2.8</em>
+      <em>ISPRS International Journal of Geo-Information (IJGI), 2020, IF: 2.8</em>
       <br>
       <strong>Pengcheng Shi</strong>, Qin Ye#, Lingwen Zeng
     </td>
@@ -176,7 +188,7 @@ author_profile: true
       <strong><a href="https://www.mdpi.com/1424-8220/20/8/2299">A Novel Loop Closure Detection Approach Using Simplified Structure for Low-cost LiDAR</a></strong>
       <a href="https://www.mdpi.com/1424-8220/20/8/2299">[PDF]</a>
       <br>
-      <em>Sensors, 2020, Impact Factor: 3.5</em>
+      <em>Sensors, 2020, IF: 3.5</em>
       <br>
       <strong>Qin Ye</strong>, <strong>Pengcheng Shi</strong>, Kunyuan Xu, Popo Gui, Shaoming Zhang#
     </td>
