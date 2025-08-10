@@ -37,7 +37,7 @@ author_profile: true
       <a href="https://dl.acm.org/doi/10.1145/3707446">[PDF]</a> 
       <a href="https://github.com/ShiPC-AI/LPR-Survey">[Code]</a>
       <br>
-      <em>ACM Computing Surveys (CSUR), 2024, IF: 23.8</em>
+      <em>ACM Computing Surveys (CSUR), 2024, IF: 28.0</em>
       <br>
       Yongjun Zhang, <strong>Pengcheng Shi</strong>#, Jiayun Li#
     </td>
