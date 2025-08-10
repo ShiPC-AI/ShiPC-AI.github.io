@@ -14,6 +14,7 @@ redirect_from:
 - IEEE Transactions on Intelligent Vehicles (**TIV**)
 - IEEE Transactions on Instrumentation and Measurement (**TIM**)
 - Photogrammetric Record (**PHOR**)
+- International Conference on Computer Vision (**ICCV**)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)
 - International Journal of Intelligent Robotics and Applications
 - Journal of Supercomputing
