@@ -151,7 +151,7 @@ author_profile: true
       <br>
       <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022, IF: 8.2</em>
       <br>
-      <strong>Jiayuan Li</strong>, Wangyi Xu, <strong>Pengcheng Shi</strong>, Yongjun Zhang#, Qingwu Hu#
+      Jiayuan Li, Wangyi Xu, <strong>Pengcheng Shi</strong>, Yongjun Zhang#, Qingwu Hu#
     </td>
   </tr>
 </table>
