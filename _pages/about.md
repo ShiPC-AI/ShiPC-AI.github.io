@@ -38,7 +38,7 @@ author_profile: true
 </p> 
 
 <p style="white-space: nowrap; margin-bottom: 0.3em;">   
-  • <strong><span style="color: red; font-weight: bold;">[2024.12]</span></strong> A paper is accepted by <strong><em>ACM Computing Surveys (IF=23.8)</em></strong> </p> 
+  • <strong><span style="color: red; font-weight: bold;">[2024.12]</span></strong> A paper is accepted by <strong><em>ACM Computing Surveys (IF=28.0)</em></strong> </p> 
 
 <p style="white-space: nowrap; margin-bottom: 0.3em;">   
   • <strong><span style="color: red; font-weight: bold;">[2024.12]</span></strong> A paper is accepted by <strong><em>IEEE RAL</em></strong> </p> 
