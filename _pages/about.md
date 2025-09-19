@@ -24,6 +24,9 @@ author_profile: true
 
 ## 🔥 News
 <p style="white-space: nowrap; margin-bottom: 0.3em;">
+  • <strong><span style="color: red; font-weight: bold;">[2025.07]</span></strong>  I was supported by <strong><em>Postdoctoral Fellowship Program of CPSF (国资B档)</em></strong> </p>
+
+<p style="white-space: nowrap; margin-bottom: 0.3em;">
   • <strong><span style="color: red; font-weight: bold;">[2025.06]</span></strong> I obtain my Ph.D. degree at the Wuhan University</p> 
 
 <p style="white-space: nowrap; margin-bottom: 0.3em;">   

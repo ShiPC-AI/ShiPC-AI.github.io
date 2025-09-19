@@ -17,6 +17,7 @@ redirect_from:
 - International Conference on Computer Vision (**ICCV**)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)
 - International Journal of Intelligent Robotics and Applications
+- Sensors
 - Journal of Supercomputing
 - Infrared Physics and Technology
 - Geomatics and Information Science of Wuhan University (**武汉大学学报信息科学版**)

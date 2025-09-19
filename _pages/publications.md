@@ -25,7 +25,7 @@ author_profile: true
       <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Yan_HeMoRa_Unsupervised_Heuristic_Consensus_Sampling_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.html">[PDF]</a> 
       <a href="https://github.com/Laka-3DV/HeMoRa">[Code]</a>
       <br>
-      <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) </em>
+      <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024</em>
       <br>
       Shaocheng Yan, Yiming Wang, Kaiyan Zhao, <strong>Pengcheng Shi</strong>, Zhenjun Zhao, Yongjun Zhang, Jiayuan Li#
     </td>
@@ -190,7 +190,7 @@ author_profile: true
       <br>
       <em>Sensors, 2020, IF: 3.5</em>
       <br>
-      <strong>Qin Ye</strong>, <strong>Pengcheng Shi</strong>, Kunyuan Xu, Popo Gui, Shaoming Zhang#
+      Qin Ye, Pengcheng Shi</strong>, Kunyuan Xu, Popo Gui, Shaoming Zhang#
     </td>
   </tr>
 </table>
