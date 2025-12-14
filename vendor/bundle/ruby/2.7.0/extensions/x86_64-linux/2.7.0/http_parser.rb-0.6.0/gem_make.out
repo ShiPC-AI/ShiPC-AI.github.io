@@ -1,0 +1,16 @@
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20251214-1273450-1ixdmdw.rb extconf.rb
+creating Makefile
+
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20251214-1273450-1mvu4p7

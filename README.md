@@ -1,3 +1,11 @@
-Personal Academic Page: [shipc-ai.github.io](https://shipc-ai.github.io)
+# 🤖 Welcome to my website
+## [https://Grandzxw.github.io/](https://Grandzxw.github.io/)
 
-Fork from [https://academicpages.github.io/](https://academicpages.github.io/)
+
+
+
+<!-- 
+git add -A
+git commit -m "update"
+git push origin main 
+-->

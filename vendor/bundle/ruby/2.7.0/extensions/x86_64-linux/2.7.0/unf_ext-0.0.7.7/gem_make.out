@@ -1,0 +1,16 @@
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20251214-1273450-9mdwm5.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/spcomen21/spc/Vscode/Github-SPC/ShiPC-AI.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20251214-1273450-18hnjuu
