@@ -48,6 +48,6 @@
     <li><strong><span style="color: red; font-weight: bold;">[2024.01]</span></strong> One paper is accepted by <strong><em>IEEE TIV</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2023.07]</span></strong> One paper is accepted by <strong><em>ISPRS P&RS (IF=12.7)</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2023.05]</span></strong> One paper is accepted by <strong><em>JAG</em></strong>.</li>
-    <li><strong><span style="color: red; font-weight: bold;">[2023.03]</span></strong> &nbsp; One paper is accepted by <strong><em>IEEE TPAMI (IF=24.3)</em></strong>.</li>
+    <li><strong><span style="color: red; font-weight: bold;">[2023.03]</span></strong> One paper is accepted by <strong><em>IEEE TPAMI (IF=24.3)</em></strong>.</li>
   </ul>
 </div>

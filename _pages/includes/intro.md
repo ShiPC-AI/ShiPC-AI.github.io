@@ -1,6 +1,4 @@
 # 🤖 About Me
-<!-- - I’m a Ph.D. candidate in the [School of Information Science and Technology](http://eie.hitsz.edu.cn/English.htm) at [Harbin Institute of Technology](http://en.hitsz.edu.cn/), China. I’m currently supervised by [Prof. Xu Zhu](https://faculty.hitsz.edu.cn/zhuxu?lang=en). I was previously advised by the late Prof. Yang Wang, whose passing was a great loss. I remain grateful for his guidance.  -->
-
 I'm currently a Postdoctoral Researcher at Wuhan University, China. I obtained my Ph.D. degree at Wuhan University under the joint supervision of Prof. Yongjun Zhang and Prof. Jiayuan Li. Our research team's official website is <a href="https://skyearth.org/">SkyEarth</a>.
 
 <p style="margin-bottom: 1em;">

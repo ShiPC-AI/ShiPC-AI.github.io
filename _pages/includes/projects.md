@@ -2,31 +2,35 @@
 
 # 🎖 Projects
 - <p style="margin: 0; line-height: 1.1;">
+  2025, 中国科学技术部科技创新专项, <strong>项目骨干</strong>
+  </p>
+- <p style="margin: 0; line-height: 1.1;">
   2025, 国家资助博士后研究人员计划B档, <strong>主持</strong>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
   2025, 国家重点研发计划, <strong>项目骨干</strong> 
   </p>
 - <p style="margin: 0; line-height: 1.1;">
-  2024 湖南省第一测绘院横向科研项目, <strong>项目骨干</strong>
+  2024, 湖南省第一测绘院横向科研项目, <strong>项目骨干</strong>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
-  2024 惯性技术重点实验室开放基金, <strong>项目骨干</strong> 
+  2024, 惯性技术重点实验室开放基金, <strong>项目骨干</strong> 
   </p>
 - <p style="margin: 0; line-height: 1.1;">
-  2023 武大-华为联合重点实验室开放基金, <strong>项目骨干</strong> 
+  2023, 武大-华为联合重点实验室开放基金, <strong>项目骨干</strong> 
   </p>
 - <p style="margin: 0; line-height: 1.1;">
-  2022 国家重点研发计划, 参与 
+  2022, 国家重点研发计划, 参与 
   </p>
 - <p style="margin: 0; line-height: 1.1;">
-  2021 湖北省科技重大项目, 参与
+  2021, 湖北省科技重大项目, 参与
 - <p style="margin: 0; line-height: 1.1;">
-  2020 城市国土资源监测与仿真重点实验室开放基金,参与
+  2020, 城市国土资源监测与仿真重点实验室开放基金,参与
   </p>
 
 # 💡 Patents
 <span id="patents"></span>
+
 - <p style="margin: 0; line-height: 1.1;">
   2025, 基于特征点联合平差的激光SLAM局部地图构建方法 (授权，序2)
   </p>

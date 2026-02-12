@@ -24,7 +24,7 @@
 **Journal Reviewer**
 
 - <p style="margin: 0; line-height: 1.1;">
-  IEEE TCSVT, TGRS, RA-L, TIV, TIM
+  IEEE: TCSVT, TCYB, TGRS, RA-L, TIV, TIM
   </p>
   
 - <p style="margin: 0; line-height: 1.1;">
@@ -36,9 +36,8 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
-  Sensors
+  MDPI: Sensors, Robotics, Remote Sensing
   </p>
-
 - <p style="margin: 0; line-height: 1.1;">
   Infrared Physics & Technology
   </p>
@@ -58,5 +57,8 @@
 **Conference Reviewer**
 
 - <p style="margin: 0; line-height: 1.1;">
-  ICCV, ICRA, IROS
+  ICCV, CVPR
+  </p>
+- <p style="margin: 0; line-height: 1.1;">
+  ICRA, IROS
   </p>
