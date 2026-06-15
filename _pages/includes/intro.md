@@ -9,6 +9,8 @@ I'm currently a Postdoctoral Researcher at Wuhan University, China. I obtained m
   <li style="margin-bottom: 0.3em;"><strong>Precise Localization in Dynamic Environments</strong></li>
   <li style="margin-bottom: 0.3em;"><strong>Point Cloud Registration</strong></li>
   <li><strong>Loop Closure Detection / Place Recognition</strong></li>
+  <li><strong>Large-scale / Multi-session Mapping</strong></li>
+  <li><strong>Multi-sensor Systems</strong></li>
 </ul>
 
 

@@ -3,6 +3,14 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.1;">
+  2026, 10% of the Most Viewed Paper<br>
+  </p>
+
+- <p style="margin: 0; line-height: 1.1;">
+  2026, Top Cited Article <br>
+  </p>
+
+- <p style="margin: 0; line-height: 1.1;">
   2025, Excellent Graduate (Ph.D), 优秀博士毕业生<br>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
@@ -18,7 +26,7 @@
   2021 Outstanding Master Scholarship, 优秀硕士奖学金 <br>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
-  2020, Excellent Graduate (B.Eng.), 优秀学士毕业生 <br>
+  2018, Excellent Graduate (B.Eng.), 优秀学士毕业生 <br>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
   2016, Provincial Scholarship, Liaoning Provincial Government, 辽宁省政府奖学金<br>
