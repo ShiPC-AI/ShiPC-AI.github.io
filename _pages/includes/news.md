@@ -37,7 +37,7 @@
   <ul class="news-list">
     <li><strong><span style="color: red; font-weight: bold;">[2026.06]</span></strong> One paper is accepted by <strong><em>ISPRS JP&RS (IF=12.2)</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2026.05]</span></strong> One paper was recognized as a <strong><em>Top 10% Most Viewed Paper</em></strong>.</li>
-    <li><strong><span style="color: red; font-weight: bold;">[2026.04]</span></strong> One paper was recognized as a <strong><em>Top Cited Article</em></strong>.</li>
+    <li><strong><span style="color: red; font-weight: bold;">[2026.04]</span></strong> One paper was recognized as a <strong><em>Top Cited Paper</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2026.04]</span></strong> One paper was accepted by <strong><em>CVPR 2026</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2025.12]</span></strong> 入选 <strong><em>武汉大学弘毅博士后</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2025.07]</span></strong>  I was supported by <strong><em>Postdoctoral Fellowship Program of CPSF (国家资助博士后资助B档)</em></strong>.</li>
