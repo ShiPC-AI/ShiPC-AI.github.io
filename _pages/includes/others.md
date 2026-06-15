@@ -55,6 +55,10 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
+  Others: IUTS
+  </p>
+
+- <p style="margin: 0; line-height: 1.1;">
   国产期刊: 测绘学报, 武汉大学学报信息科学版
   </p>
 
