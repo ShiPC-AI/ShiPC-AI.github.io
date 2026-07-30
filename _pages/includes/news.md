@@ -35,7 +35,8 @@
 
 <div class="news-container">
   <ul class="news-list">
-    <li><strong><span style="color: red; font-weight: bold;">[2026.06]</span></strong> One paper is accepted by <strong><em>ISPRS JP&RS (IF=12.2)</em></strong>.</li>
+    <li><strong><span style="color: red; font-weight: bold;">[2026.07]</span></strong> 获批 <strong><em>第79批中国博士面上基金</em></strong>.</li>
+    <li><strong><span style="color: red; font-weight: bold;">[2026.06]</span></strong> One paper is accepted by <strong><em>ISPRS JP&RS (IF=12.9)</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2026.05]</span></strong> One paper was recognized as a <strong><em>Top 10% Most Viewed Paper</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2026.04]</span></strong> One paper was recognized as a <strong><em>Top Cited Paper</em></strong>.</li>
     <li><strong><span style="color: red; font-weight: bold;">[2026.04]</span></strong> One paper was accepted by <strong><em>CVPR 2026</em></strong>.</li>

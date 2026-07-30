@@ -51,7 +51,7 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
-  MDPI: Sensors, Robotics, Remote Sensing
+  MDPI: Sensors, Robotics, Remote Sensing, Electronics, Photonics
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
