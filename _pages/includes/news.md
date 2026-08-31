@@ -45,7 +45,7 @@
 
 <div class="news-container">
   <ul class="news-list">
-    <li><span class="news-date">[2026.08]</span> One paper was accepted by <span class="news-highlight">ISPRS JP&amp;RS (IF: 12.9)</span>. 获批项目：<span class="news-highlight">国自然青C、湖北省博新A档</span>.</li>
+    <li><span class="news-date">[2026.08]</span> One paper was accepted by <span class="news-highlight">ISPRS JP&amp;RS (IF: 12.9)</span>. 获批项目：<span class="news-highlight">国自然青C、湖北省博新</span>.</li>
     <li><span class="news-date">[2026.07]</span> 获批项目：<span class="news-highlight">第79批中国博士后面上基金</span>.</li>
     <li><span class="news-date">[2026.06]</span> One paper was accepted by <span class="news-highlight">ISPRS JP&amp;RS (IF: 12.9)</span>.</li>
     <li><span class="news-date">[2026.05]</span> One paper was recognized as a <span class="news-highlight">Top 10% Most Viewed Paper</span>.</li>

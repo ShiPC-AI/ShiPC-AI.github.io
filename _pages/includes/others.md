@@ -35,7 +35,7 @@
 **Journal Reviewer**
 
 - <p style="margin: 0; line-height: 1.1;">
-  IEEE: TVCG, TCSVT, TCYB, TGRS, RA-L, TIV, TIM
+  IEEE: TPAMI, TVCG, TCSVT, TCYB, TGRS, RA-L, TIV, TIM
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
