@@ -7,7 +7,7 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
-  2026, Top Cited Article <br>
+  2026, Top Cited Paper <br>
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">

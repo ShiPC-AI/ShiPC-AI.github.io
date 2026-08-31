@@ -35,7 +35,7 @@
 **Journal Reviewer**
 
 - <p style="margin: 0; line-height: 1.1;">
-  IEEE: TCSVT, TCYB, TGRS, RA-L, TIV, TIM
+  IEEE: TVCG, TCSVT, TCYB, TGRS, RA-L, TIV, TIM
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
@@ -43,7 +43,7 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
-  Elsevier: Measurement, Geomatica, Recent Advances in Electrical and Electronic Engineering, Infrared Physics & Technology
+  Elsevier: RAS, Measurement, Geomatica, Recent Advances in Electrical and Electronic Engineering, Infrared Physics & Technology
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
@@ -51,7 +51,11 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">
-  MDPI: Sensors, Robotics, Remote Sensing
+  MDPI: Sensors, Robotics, Remote Sensing, Electronics, Photonics
+  </p>
+
+- <p style="margin: 0; line-height: 1.1;">
+  Others: IUTS
   </p>
 
 - <p style="margin: 0; line-height: 1.1;">

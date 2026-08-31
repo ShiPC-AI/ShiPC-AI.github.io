@@ -2,10 +2,19 @@
 
 # 🎖 Projects
 - <p style="margin: 0; line-height: 1.1;">
-  2025, 中国科学技术部科技创新专项, <strong>项目骨干</strong>
+  2026, 国家自然科学基金青年科学基金(C类), <strong>主持</strong>
+  </p>
+- <p style="margin: 0; line-height: 1.1;">
+  2026, 第2批中国博士后基金湖北省联合资(湖北省博新A档), <strong>主持</strong>
+  </p>
+- <p style="margin: 0; line-height: 1.1;">
+  2026, 第79批中国博士后面上基金, <strong>主持</strong>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
   2025, 国家资助博士后研究人员计划B档, <strong>主持</strong>
+  </p>
+- <p style="margin: 0; line-height: 1.1;">
+  2025, 中国科学技术部科技创新专项, <strong>项目骨干</strong>
   </p>
 - <p style="margin: 0; line-height: 1.1;">
   2025, 国家重点研发计划, <strong>项目骨干</strong> 

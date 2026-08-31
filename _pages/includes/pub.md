@@ -7,6 +7,53 @@
 <!-- ## 2025 -->
 
 - <div style="margin-bottom: 0.6em; line-height: 1.25;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626004053">
+  DSTD: Dual stable triangle descriptor with sliding window optimization for LiDAR place recognition
+  </a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626004053">[PDF]</a>
+  <a href="https://github.com/ShiPC-AI/DSTD">[Code]</a><br>
+
+  <em>ISPRS Journal of Photogrammetry and Remote Sensing (<strong>ISPRS JP&RS 2026</strong>)</em><br>
+
+  <strong>Pengcheng Shi</strong>, Jiajun Chen, Junqi Luo, Yongjun Zhang#, Jiayuan Li#
+  </div>
+
+- <div style="margin-bottom: 0.6em; line-height: 1.25;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626002911">
+  GLoC: Global–local graph fusion and clique search for LiDAR place recognition
+  </a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626002911">[PDF]</a>
+  <a href="https://github.com/ShiPC-AI/GLoC">[Code]</a><br>
+
+  <em>ISPRS Journal of Photogrammetry and Remote Sensing (<strong>ISPRS JP&RS 2026</strong>)</em><br>
+
+  <strong>Pengcheng Shi</strong>, Yubin Lei, Yuan Kou, Yongjun Zhang#, Jiayuan Li#
+  </div>
+
+- <div style="margin-bottom: 0.6em; line-height: 1.25;">
+  <a href="https://arxiv.org/abs/2605.04730">
+  ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting
+  </a>
+  <a href="https://arxiv.org/pdf/2605.04730">[PDF]</a>
+  <a href="https://github.com/Cyril-gyd/ULF-Loc">[Code]</a><br>
+
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR 2026 Highlight</strong>)</em><br>
+
+  Yingdong Gu, Shaocheng Yan, Zhenjun Zhao, Yuan Kou, Jianxin Luo, <strong>Pengcheng Shi</strong>, Jiayuan Li#
+  </div>
+
+- <div style="margin-bottom: 0.6em; line-height: 1.25;">
+  <a href="https://www.sciencedirect.com/science/article/pii/S092658052500771X">
+  Indoor scan-to-BIM automation: From mobile perception to 3D building modelling
+  </a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S092658052500771X">[PDF]</a><br>
+
+  <em>Automation in Construction (<strong>AUTCON 2026</strong>)</em><br>
+
+  Junqi Luo, Zexin Yang, <strong>Pengcheng Shi</strong>, Qin Ye#
+  </div>
+
+- <div style="margin-bottom: 0.6em; line-height: 1.25;">
   <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yan_TurboReg_TurboClique_for_Robust_and_Efficient_Point_Cloud_Registration_ICCV_2025_paper.html">
   TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
   </a>
